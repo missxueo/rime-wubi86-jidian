@@ -1638,9 +1638,6 @@ encoder:
 蒎	aire	10
 萡	airf	10
 落后	airg	10
-AirPods	airp	30
-AirPods Pro	airp	20
-AirPower	airp	10
 落魄	airr	10
 菏	ais	10
 东西	aisg	10
@@ -2737,7 +2734,6 @@ AirPower	airp	10
 营火	apoo	10
 荧	apou	10
 营寨	appf	10
-Apple	appl	20
 劳军	appl	10
 蒙冤	appq	10
 劳神	appy	10
@@ -23043,7 +23039,6 @@ u	copu	10
 琬	gpqb	10
 正襟危坐	gpqw	10
 珍宝岛	gpqy	10
-GoPro	gpr	10
 不客气	gprn	10
 瑸	gprw	10
 列宁格勒	gpsa	10
@@ -24809,7 +24804,6 @@ GoPro	gpr	10
 頉	hdmy	10
 	hdqg	10
 凸面镜	hdqu	10
-HDR	hdr	10
 狊	hdu	10
 瞭	hdui	10
 睶	hdwj	10
@@ -29103,7 +29097,6 @@ IMAX	imax	10
 没精打采	iore	10
 淡抹	iorg	10
 水煤气	iorn	10
-iOS	ios	10
 消火栓	iosw	10
 淡季	iotb	10
 消炎片	ioth	10
@@ -29125,7 +29118,6 @@ iOS	ios	10
 学工	ipaa	10
 浓荫	ipab	10
 学期	ipad	30
-iPad	ipad	20
 深藏	ipad	10
 掌鞭	ipaf	10
 沉落	ipai	10
@@ -29233,7 +29225,6 @@ iPad	ipad	20
 掌上	iphh	10
 学步	iphi	10
 学点	iphk	10
-iPhone	ipho	10
 深壑	iphp	10
 覚	iphq	10
 沉睡	ipht	10
@@ -29345,7 +29336,6 @@ iPhone	ipho	10
 学习	ipnu	20
 演习	ipnu	10
 掌心	ipny	10
-iPod	ipod	10
 学业	ipog	10
 浓烟	ipol	10
 沉迷	ipop	10
@@ -40081,8 +40071,6 @@ km/h	kmh	20
 賤	maat	10
 曲子	mabb	10
 曲阳	mabj	10
-Macbook	macb	10
-macOS	maco	10
 曲	mad	10
 内蒙古自治区	mada	10
 嵌套	madd	10
@@ -40214,7 +40202,6 @@ macOS	maco	10
 邮局	mbnn	10
 邮发	mbnt	10
 邮戳	mbnw	10
-MacbookPro	mbp	10
 邮寄	mbpd	10
 邮包	mbqn	10
 邮报	mbrb	10
@@ -53468,7 +53455,6 @@ MacbookPro	mbp	10
 夤缘	qpxx	10
 鎺	qpyg	10
 多	qq	20
-QQ	qq	10
 金工	qqaa	10
 多项	qqad	10
 金牙	qqah	10
@@ -70409,7 +70395,6 @@ TF卡	ttfhh	10
 闻闻	ubub	10
 疗养	ubud	20
 逆差	ubud	10
-Ubuntu	ubun	10
 疗效	ubuq	10
 闻道	ubut	10
 癊	ubwc	10
@@ -88003,7 +87988,6 @@ XBox	xbox	10
 旗	ytaw	10
 放荒	ytay	10
 施	ytb	20
-YouTube	ytb	10
 旗子	ytbb	10
 诈取	ytbc	10
 州际	ytbf	10
